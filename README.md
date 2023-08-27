@@ -6,7 +6,7 @@ This application mainly focuses on downloading file from YouTube, either just au
 *Aplikasi ini berfokus untuk mendownload file dari Youtube, baik itu hanya audio ataupun video. Aplikasi ini dapat digunakan sebagai pencarian di Youtube, dan dapat dijadikan sebagai bahan pembelajaran mengenai bahasa pemograman Python.*
 
 ## Project results
-![App Screenshot]("./etc/full_image.png")
+<img src="./etc/full_image.png" width="500px">
 
 ## Getting Started
 There are several python libraries used in this project.
