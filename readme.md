@@ -6,7 +6,7 @@
 
 </div>
 
-## 1. What is ytb-load
+## What is ytb-load
 ytb-load is a Youtube Downloader that mainly using python for programming language, and pytube for the packages.
 
 ## Overview
